@@ -1,4 +1,4 @@
-package com.cloud.rest_api_railway.exception;
+package com.cloud.rest_api_railway.controller.exception;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
